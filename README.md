@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="./Hanny.jpg" alt="logo" width="140"  height="auto" />
+  <img src="./images/Umu.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Capstone Project1</b></h3>
@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- - [Live Demo Link](https://umuhan.github.io/My-Portfolio-Project/) -->
+- [Live Demo Link](https://github.com/Umuhan/Capstone-Project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +85,7 @@ Run this command:
 
 ```sh
   cd my-folder
-  # git clone git@github.com:Umuhan/My-Portfolio-Project.git
+  git clone https://github.com/Umuhan/Capstone-Project.git
 ```
 
 ### Usage
@@ -100,7 +100,7 @@ Open index.html using live server extension.
 
 ### Deployment
 
-> Coming Soon
+> Your site is live at https://umuhan.github.io/Capstone-Project/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
