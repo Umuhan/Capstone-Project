@@ -121,6 +121,7 @@ li {
   cursor: pointer;
   position: absolute;
   left: 3rem;
+
   /* right: 1em; */
   top: 1em;
   z-index: 1000;
@@ -205,6 +206,7 @@ li {
   color: #ec5242;
   font-weight: 700;
   font-size: 30px;
+
   /* width: 100%; */
 }
 
@@ -216,13 +218,12 @@ li {
   padding: 10%;
   border: 1px solid #fff;
   border-radius: 5px;
-  padding: 1rem;
   margin-top: 1rem;
   background-color: #eee;
 }
 
 .date {
-  font-size: "Gothic A1", sans-serif;
+  font-family: "Gothic A1", sans-serif;
   font-size: 20px;
   font-weight: 900;
   color: #595959;
@@ -359,7 +360,7 @@ li {
 
 .photo {
   width: 107px;
-  padding-top: 0px;
+  padding-top: 0;
   margin-left: 10%;
 }
 
@@ -450,7 +451,8 @@ li {
   border: 1px solid #eee;
   width: 90%;
   padding: 1rem;
-  box-shadow: 0.25em 0.25em 0.75em rgba(0, 0, 0, 0.25),
+  box-shadow:
+    0.25em 0.25em 0.75em rgba(0, 0, 0, 0.25),
     0.125em 0.125em 0.25em rgba(0, 0, 0, 0.15);
   display: block;
   margin-inline: auto;
