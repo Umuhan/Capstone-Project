@@ -79,22 +79,29 @@
     background-position: center;
   }
 
-  .hero-body img {
-    width: 90%;
-    display: block;
+  .hero-image {
+    padding: 15% 30% 10% 10%;
+    background-size: cover;
+  }
+
+  .hero-greet {
+    font-weight: 600;
+    font-size: 24px;
+    background-size: 20%;
+  }
+
+  .create {
+    font-weight: 600;
+    font-size: 40px;
   }
 
   .hero-subtitle {
-    width: 60%;
-    background-color: #fff;
-    display: block;
-    margin: 0 auto;
-    padding: 2rem;
-    text-align: center;
-    margin-bottom: 2rem;
-    border: 1px solid #eee;
+    width: 75%;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+    padding: 8% 5%;
   }
-
   .venue {
     font-size: 2.5rem;
     width: 60%;
