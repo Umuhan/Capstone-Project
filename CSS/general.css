@@ -127,30 +127,18 @@
     margin-bottom: 5rem;
   }
 
-  /* program section */
-  .program {
-    width: 100;
-  }
-
   .program-cards {
     display: flex;
     flex-direction: row;
     gap: 2rem;
     justify-content: center;
-
     margin-top: 2rem;
-
-    /* margin-left: auto;
-    margin-right: auto; */
   }
 
   .card {
     width: 200px;
     display: flex;
     flex-direction: column;
-    /* gap: 0;
-    margin-inline: 0; */
-    /* padding-top: 2rem; */
   }
 
   .program-btn {
@@ -277,19 +265,6 @@
     padding: 2rem;
   }
 
-  /* .previous-images {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    padding: 10px;
-    justify-content: center;
-  } */
-
-  /* .img2011 {
-    width: 470px;
-    height: 330px;
-  } */
-
   .ImgGrid {
     display: grid;
     grid-template-columns: repeat(2, 2fr);
@@ -302,10 +277,12 @@
     padding-top: 50px;
     padding-bottom: 50px;
   }
+
   .ChildOne {
     border-radius: 10px;
     padding: 80px;
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(221, 38, 38, 0.644),
         rgb(124, 106, 106)
       ),
@@ -317,10 +294,12 @@
     left: 40px;
     color: #fff;
   }
+
   .SecondChild {
     border-radius: 10px;
     padding: 80px;
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(221, 38, 38, 0.644),
         rgb(124, 106, 106)
       ),
