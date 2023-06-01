@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/Umuhan/Capstone-Project
+- [Live Demo Link] (https://umuhan.github.io/Capstone-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +138,7 @@ If you like this project give it a thumbs up 👍.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and my coding partners.
+I would like to thank Cindy Shin the author of the original design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
